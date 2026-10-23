@@ -1,0 +1,4 @@
+export const CONFIG = {
+  GEMINI_API_KEY: "YOUR_GEMINI_API_KEY_HERE",
+  GEMINI_MODEL: "gemini-3.8-flash"
+};
